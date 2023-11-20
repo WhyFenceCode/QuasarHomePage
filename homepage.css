@@ -33,7 +33,6 @@ body {
   }
 
   #homelogo {
-    /*background-image: url(../interfaces/logo/HomePage.png);*/
     object-fit: contain;
   }
   
