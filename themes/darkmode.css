@@ -3,8 +3,8 @@
 /*Main*/
 :root {
     --gray: #212020;
-    --tabs-background: #313335;
-    --tab-selected: #44474a;
+    --tabs-background: #0f1419;
+    --tab-selected: #0f1419;
     --icon-filter: brightness(0) saturate(100%) invert(100%) sepia(88%) saturate(104%) hue-rotate(215deg) brightness(114%) contrast(92%);
 }
 
@@ -198,5 +198,6 @@ input:checked + .slider {
 
 #url-innerurl-homepage {
     background-color: var(--tabs-background);
+    box-shadow:0px 0px 0px 1px #262b2f inset;
     color: whitesmoke;
 }
